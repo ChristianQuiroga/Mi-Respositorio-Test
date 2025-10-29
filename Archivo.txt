@@ -1,8 +1,4 @@
 time 20:03
 time 20:26
-<<<<<<< Updated upstream
-Nuevo Branch prueba.
 
-=======
-Vamos a crear un branch nuevo. 29/10/25 18hrs
->>>>>>> Stashed changes
+Nuevo Branch prueba 29/10
